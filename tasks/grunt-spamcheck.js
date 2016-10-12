@@ -118,9 +118,8 @@ module.exports = function(grunt) {
 
       // Show long report
       if (options.requestOpts.options === 'long') {
-        grunt.log.writeln('');
-        grunt.log.writeln('');
-        grunt.log.writeln('---- ---------------------- --------------------------------------------------');
+        grunt.log.writeln('\n\n');
+        grunt.log.writeln(createDivider());
         grunt.log.writeln(options.response.report);
       }
     }
@@ -183,6 +182,11 @@ module.exports = function(grunt) {
 
     function clone(obj) {
       return JSON.parse(JSON.stringify(obj));
+    }
+
+    function createDivider() {
+      // Creates a divider that matches spamassassin
+      return '-'.repeat(4) + ' ' + '-'.repeat(22) + ' ' + '-'.repeat(50);
     }
 
   });
