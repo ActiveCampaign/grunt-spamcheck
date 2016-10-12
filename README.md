@@ -1,6 +1,5 @@
 # grunt-spamcheck v0.1.0
 
-[![Code Climate](https://codeclimate.com/github/derekrushforth/grunt-spamcheck/badges/gpa.svg)](https://codeclimate.com/github/derekrushforth/grunt-spamcheck)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 [![Build Status](https://travis-ci.org/derekrushforth/grunt-spamcheck.svg)](https://travis-ci.org/derekrushforth/grunt-spamcheck)
 
