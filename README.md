@@ -1,4 +1,4 @@
-# grunt-spamcheck v0.1.0
+# grunt-spamcheck
 
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 [![Build Status](https://travis-ci.org/derekrushforth/grunt-spamcheck.svg)](https://travis-ci.org/derekrushforth/grunt-spamcheck)
