@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/derekrushforth/grunt-spamcheck"
+    "url": "https://github.com/wildbit/grunt-spamcheck"
   },
   "devDependencies": {
     "chai": "^1.10.0",
@@ -22,7 +22,10 @@
     "chalk": "^0.5.1",
     "figures": "^1.3.5"
   },
-  "author": "Derek Rushforth <derekrushforth@gmail.com> (http://derekrushforth.com/)",
+  "author": {
+    "name": "Derek Rushforth",
+    "email": "derek@wildbit.com"
+  },
   "keywords": [
     "gruntplugin",
     "postmark",

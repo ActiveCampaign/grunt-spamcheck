@@ -1,6 +1,6 @@
 /*
  * grunt-spamcheck
- * ttps://github.com/derekrushforth/grunt-spamcheck.git
+ * ttps://github.com/wildbit/grunt-spamcheck.git
  */
 
 module.exports = function(grunt) {

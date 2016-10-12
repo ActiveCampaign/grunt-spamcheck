@@ -1,6 +1,6 @@
 /*
  * grunt-spamcheck
- * https://github.com/derekrushforth/grunt-spamcheck.git
+ * https://github.com/wildbit/grunt-spamcheck.git
  */
 
 'use strict';
