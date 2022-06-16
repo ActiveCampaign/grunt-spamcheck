@@ -1,8 +1,3 @@
-/*
- * grunt-spamcheck
- * ttps://github.com/wildbit/grunt-spamcheck.git
- */
-
 module.exports = function(grunt) {
 
   grunt.initConfig({

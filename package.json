@@ -1,6 +1,6 @@
 {
   "name": "grunt-spamcheck",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Spam check your emails using Postmark's API",
   "main": "Gruntfile.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wildbit/grunt-spamcheck"
+    "url": "https://github.com/activecampaign/grunt-spamcheck"
   },
   "devDependencies": {
     "chai": "^3.5.0",
@@ -24,7 +24,7 @@
   },
   "author": {
     "name": "Derek Rushforth",
-    "email": "derek@wildbit.com"
+    "email": "drushforth@activecampaign.com"
   },
   "keywords": [
     "gruntplugin",
